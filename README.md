@@ -18,7 +18,7 @@ Unity와 Google MediaPipe를 활용하여 사용자의 손동작을 실시간으
 
 
 
-<img width="2879" height="1799" alt="Image" src="https://github.com/user-attachments/assets/2fe596f2-75e6-4ce9-8342-0afab3a73b32" />
+<img width="1919" height="1199 alt="Image" src="https://github.com/user-attachments/assets/2fe596f2-75e6-4ce9-8342-0afab3a73b32" />
 
 
 
